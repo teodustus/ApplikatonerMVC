@@ -1,9 +1,7 @@
-# LSAPP - Laravel From Scratch App
+Applikationer sem 2 och framåt
 
-This is the source code for the "Laravel From Scratch" Youtube series by Traversy media. It is a website with a blog application. It also includes full authentication and file uploading.
+För att köra krävs composer.
 
-## Version
-1.0.0
-
-## Database
-The sql dump is in _SQL/lsapp.sql
+1 hämta repo och lägg i path för webserver
+2 kör composer install
+3 php artisan serve för att starta engine.
